@@ -1,7 +1,7 @@
 # java design pattern
-+ [ ] [JDK中设计模式的实现](DOC/01.jdk-design-pattern-impl.md)
++ [x] [JDK中设计模式的实现](DOC/01.jdk-design-pattern-impl.md)
 * Creational Design Patterns
-    + [ ] [Singleton](DOC/)
+    + [ ] [Singleton](DOC/02.singleton.md)
     + [ ] [Factory]()
     + [ ] [Factory Method]()
     + [ ] [Abstract Factory]()
