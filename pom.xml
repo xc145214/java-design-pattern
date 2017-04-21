@@ -8,6 +8,7 @@
     <modules>
         <module>singleton</module>
         <module>singleton</module>
+        <module>factory-kit</module>
     </modules>
     <packaging>pom</packaging>
 
