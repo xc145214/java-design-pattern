@@ -19,4 +19,15 @@ hs_err_pid*
 .idea/
 *.iml
 
+*/target/
 
+
+out/
+singleton/src/main/resources/
+singleton/src/test/java/com/github/xc145214/single/AppTest.java
+singleton/src/test/java/com/github/xc145214/single/EnumIvoryTowerTest.java
+singleton/src/test/java/com/github/xc145214/single/InitializingOnDemandHolderIdiomTest.java
+singleton/src/test/java/com/github/xc145214/single/IvoryTowerTest.java
+singleton/src/test/java/com/github/xc145214/single/ThreadSafeDoubleCheckLockingTest.java
+singleton/src/test/java/com/github/xc145214/single/ThreadSafeLazyLoadedIvoryTowerTest.java
+singleton/target/
