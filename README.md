@@ -3,7 +3,7 @@
 * Creational Design Patterns
     + [x] [Singleton](DOC/02.singleton.md)
     + [x] [Factory kit](DOC/03.factory-kit.md)
-    + [ ] [Factory Method](DOC/04.factory-method.md)
+    + [x] [Factory Method](DOC/04.factory-method.md)
     + [ ] [Abstract Factory]()
     + [ ] [Builder]()
     + [ ] [Prototype]()

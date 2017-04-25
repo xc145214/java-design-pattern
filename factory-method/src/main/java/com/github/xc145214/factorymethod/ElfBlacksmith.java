@@ -13,7 +13,6 @@
 package com.github.xc145214.factorymethod;
 
 /**
- * XXXXXXXXXXXXXXXXXXXXX
  *
  * @author xiachuan at 2017/4/25 14:53。
  */
