@@ -2,8 +2,8 @@
 + [x] [JDK中设计模式的实现](DOC/01.jdk-design-pattern-impl.md)
 * Creational Design Patterns
     + [x] [Singleton](DOC/02.singleton.md)
-    + [ ] [Factory kit](DOC/03.factory-kit.md)
-    + [ ] [Factory Method]()
+    + [x] [Factory kit](DOC/03.factory-kit.md)
+    + [ ] [Factory Method](DOC/04.factory-method.md)
     + [ ] [Abstract Factory]()
     + [ ] [Builder]()
     + [ ] [Prototype]()
