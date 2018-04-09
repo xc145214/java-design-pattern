@@ -4,7 +4,7 @@
     + [x] [Singleton](DOC/02.singleton.md)
     + [x] [Factory kit](DOC/03.factory-kit.md)
     + [x] [Factory Method](DOC/04.factory-method.md)
-    + [ ] [Abstract Factory]()
+    + [ ] [Abstract Factory](DOC/05.abstract-factory.md)
     + [ ] [Builder]()
     + [ ] [Prototype]()
     + [ ] [Object Pool ]()
